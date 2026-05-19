@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="560" viewBox="0 0 430 560">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 141.613 41.613 L 190.538 41.613 L 190.538 90.538 L 141.613 90.538 Z" fill="#1f38ff" fill-opacity="0.23" stroke="#1f38ff" stroke-width="1.5" fill-rule="evenodd"/>
+<path d="M 239.462 139.462 L 288.387 139.462 L 288.387 188.387 L 239.462 188.387 Z" fill="#ff2a2a" fill-opacity="0.23" stroke="#ff2a2a" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="141.613" cy="41.613" r="3" fill="#1f38ff"/>
+<circle cx="190.538" cy="41.613" r="3" fill="#1f38ff"/>
+<circle cx="190.538" cy="90.538" r="3" fill="#1f38ff"/>
+<circle cx="141.613" cy="90.538" r="3" fill="#1f38ff"/>
+<circle cx="239.462" cy="139.462" r="3" fill="#ff2a2a"/>
+<circle cx="288.387" cy="139.462" r="3" fill="#ff2a2a"/>
+<circle cx="288.387" cy="188.387" r="3" fill="#ff2a2a"/>
+<circle cx="239.462" cy="188.387" r="3" fill="#ff2a2a"/>
+<text x="215.0" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#202124">Union</text>
+<line x1="215.0" y1="257" x2="215.0" y2="292" stroke="#000" stroke-width="13"/><polygon points="197.0,286 233.0,286 215.0,312" fill="#000"/>
+<path d="M 141.613 345.613 L 190.538 345.613 L 190.538 394.538 L 141.613 394.538 Z M 239.462 443.462 L 288.387 443.462 L 288.387 492.387 L 239.462 492.387 Z" fill="#31ff31" fill-opacity="0.80" stroke="#12b81f" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="141.613" cy="345.613" r="3" fill="#087d12"/>
+<circle cx="190.538" cy="345.613" r="3" fill="#087d12"/>
+<circle cx="190.538" cy="394.538" r="3" fill="#087d12"/>
+<circle cx="141.613" cy="394.538" r="3" fill="#087d12"/>
+<circle cx="239.462" cy="443.462" r="3" fill="#087d12"/>
+<circle cx="288.387" cy="443.462" r="3" fill="#087d12"/>
+<circle cx="288.387" cy="492.387" r="3" fill="#087d12"/>
+<circle cx="239.462" cy="492.387" r="3" fill="#087d12"/>
+<text x="16" y="548" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">10. disjoint rects / union</text>
+</svg>

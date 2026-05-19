@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="560" viewBox="0 0 430 560">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 67.419 65.806 L 165.806 65.806 L 165.806 164.194 L 67.419 164.194 Z M 264.194 65.806 L 362.581 65.806 L 362.581 164.194 L 264.194 164.194 Z" fill="#1f38ff" fill-opacity="0.23" stroke="#1f38ff" stroke-width="1.5" fill-rule="evenodd"/>
+<path d="M 116.613 65.806 L 313.387 65.806 L 313.387 164.194 L 116.613 164.194 Z" fill="#ff2a2a" fill-opacity="0.23" stroke="#ff2a2a" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="67.419" cy="65.806" r="3" fill="#1f38ff"/>
+<circle cx="165.806" cy="65.806" r="3" fill="#1f38ff"/>
+<circle cx="165.806" cy="164.194" r="3" fill="#1f38ff"/>
+<circle cx="67.419" cy="164.194" r="3" fill="#1f38ff"/>
+<circle cx="264.194" cy="65.806" r="3" fill="#1f38ff"/>
+<circle cx="362.581" cy="65.806" r="3" fill="#1f38ff"/>
+<circle cx="362.581" cy="164.194" r="3" fill="#1f38ff"/>
+<circle cx="264.194" cy="164.194" r="3" fill="#1f38ff"/>
+<circle cx="116.613" cy="65.806" r="3" fill="#ff2a2a"/>
+<circle cx="313.387" cy="65.806" r="3" fill="#ff2a2a"/>
+<circle cx="313.387" cy="164.194" r="3" fill="#ff2a2a"/>
+<circle cx="116.613" cy="164.194" r="3" fill="#ff2a2a"/>
+<text x="215.0" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#202124">Difference</text>
+<line x1="215.0" y1="257" x2="215.0" y2="292" stroke="#000" stroke-width="13"/><polygon points="197.0,286 233.0,286 215.0,312" fill="#000"/>
+<path d="M 67.419 369.806 L 116.613 369.806 L 116.613 468.194 L 67.419 468.194 Z M 313.387 369.806 L 362.581 369.806 L 362.581 468.194 L 313.387 468.194 Z" fill="#31ff31" fill-opacity="0.80" stroke="#12b81f" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="67.419" cy="369.806" r="3" fill="#087d12"/>
+<circle cx="116.613" cy="369.806" r="3" fill="#087d12"/>
+<circle cx="116.613" cy="468.194" r="3" fill="#087d12"/>
+<circle cx="67.419" cy="468.194" r="3" fill="#087d12"/>
+<circle cx="313.387" cy="369.806" r="3" fill="#087d12"/>
+<circle cx="362.581" cy="369.806" r="3" fill="#087d12"/>
+<circle cx="362.581" cy="468.194" r="3" fill="#087d12"/>
+<circle cx="313.387" cy="468.194" r="3" fill="#087d12"/>
+<text x="16" y="548" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">27. multi-region / difference</text>
+</svg>

@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>polybool_cpp Test Visualizations</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: #202124;
+      background: #f6f7f9;
+    }
+    header {
+      padding: 28px 32px 18px;
+      background: #fff;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 24px;
+      font-weight: 650;
+    }
+    p {
+      margin: 0;
+      color: #5f6368;
+      line-height: 1.45;
+    }
+    main {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 18px;
+      padding: 24px 32px 40px;
+    }
+    .card {
+      display: block;
+      overflow: hidden;
+      color: inherit;
+      text-decoration: none;
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    }
+    .card img {
+      display: block;
+      width: 100%;
+      background: #fff;
+      border-bottom: 1px solid #edf0f2;
+    }
+    .card div {
+      padding: 10px 12px 12px;
+      font-size: 14px;
+    }
+    .card span {
+      display: inline-block;
+      min-width: 28px;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>polybool_cpp Test Visualizations</h1>
+    <p>Blue and red shapes are inputs. Green shapes are the expected results.</p>
+  </header>
+  <main>
+
+      <a class="card" href="01_triangles_intersect.svg">
+        <img src="01_triangles_intersect.svg" alt="triangles / intersect">
+        <div><span>01</span>triangles / intersect</div>
+      </a>
+      <a class="card" href="02_triangles_union.svg">
+        <img src="02_triangles_union.svg" alt="triangles / union">
+        <div><span>02</span>triangles / union</div>
+      </a>
+      <a class="card" href="03_curve_union_with_box.svg">
+        <img src="03_curve_union_with_box.svg" alt="curve / union with box">
+        <div><span>03</span>curve / union with box</div>
+      </a>
+      <a class="card" href="04_rect_overlap_intersect.svg">
+        <img src="04_rect_overlap_intersect.svg" alt="rect overlap / intersect">
+        <div><span>04</span>rect overlap / intersect</div>
+      </a>
+      <a class="card" href="05_rect_overlap_union.svg">
+        <img src="05_rect_overlap_union.svg" alt="rect overlap / union">
+        <div><span>05</span>rect overlap / union</div>
+      </a>
+      <a class="card" href="06_rect_overlap_difference.svg">
+        <img src="06_rect_overlap_difference.svg" alt="rect overlap / difference">
+        <div><span>06</span>rect overlap / difference</div>
+      </a>
+      <a class="card" href="07_rect_overlap_differencerev.svg">
+        <img src="07_rect_overlap_differencerev.svg" alt="rect overlap / differenceRev">
+        <div><span>07</span>rect overlap / differenceRev</div>
+      </a>
+      <a class="card" href="08_rect_overlap_xor.svg">
+        <img src="08_rect_overlap_xor.svg" alt="rect overlap / xor">
+        <div><span>08</span>rect overlap / xor</div>
+      </a>
+      <a class="card" href="09_disjoint_rects_intersect.svg">
+        <img src="09_disjoint_rects_intersect.svg" alt="disjoint rects / intersect">
+        <div><span>09</span>disjoint rects / intersect</div>
+      </a>
+      <a class="card" href="10_disjoint_rects_union.svg">
+        <img src="10_disjoint_rects_union.svg" alt="disjoint rects / union">
+        <div><span>10</span>disjoint rects / union</div>
+      </a>
+      <a class="card" href="11_disjoint_rects_difference.svg">
+        <img src="11_disjoint_rects_difference.svg" alt="disjoint rects / difference">
+        <div><span>11</span>disjoint rects / difference</div>
+      </a>
+      <a class="card" href="12_identical_rects_union.svg">
+        <img src="12_identical_rects_union.svg" alt="identical rects / union">
+        <div><span>12</span>identical rects / union</div>
+      </a>
+      <a class="card" href="13_identical_rects_intersect.svg">
+        <img src="13_identical_rects_intersect.svg" alt="identical rects / intersect">
+        <div><span>13</span>identical rects / intersect</div>
+      </a>
+      <a class="card" href="14_identical_rects_difference.svg">
+        <img src="14_identical_rects_difference.svg" alt="identical rects / difference">
+        <div><span>14</span>identical rects / difference</div>
+      </a>
+      <a class="card" href="15_identical_rects_xor.svg">
+        <img src="15_identical_rects_xor.svg" alt="identical rects / xor">
+        <div><span>15</span>identical rects / xor</div>
+      </a>
+      <a class="card" href="16_shared_edge_rects_union.svg">
+        <img src="16_shared_edge_rects_union.svg" alt="shared edge rects / union">
+        <div><span>16</span>shared edge rects / union</div>
+      </a>
+      <a class="card" href="17_shared_edge_rects_intersect.svg">
+        <img src="17_shared_edge_rects_intersect.svg" alt="shared edge rects / intersect">
+        <div><span>17</span>shared edge rects / intersect</div>
+      </a>
+      <a class="card" href="18_shared_edge_rects_xor.svg">
+        <img src="18_shared_edge_rects_xor.svg" alt="shared edge rects / xor">
+        <div><span>18</span>shared edge rects / xor</div>
+      </a>
+      <a class="card" href="19_point_touch_rects_union.svg">
+        <img src="19_point_touch_rects_union.svg" alt="point-touch rects / union">
+        <div><span>19</span>point-touch rects / union</div>
+      </a>
+      <a class="card" href="20_point_touch_rects_intersect.svg">
+        <img src="20_point_touch_rects_intersect.svg" alt="point-touch rects / intersect">
+        <div><span>20</span>point-touch rects / intersect</div>
+      </a>
+      <a class="card" href="21_contained_rect_union.svg">
+        <img src="21_contained_rect_union.svg" alt="contained rect / union">
+        <div><span>21</span>contained rect / union</div>
+      </a>
+      <a class="card" href="22_contained_rect_intersect.svg">
+        <img src="22_contained_rect_intersect.svg" alt="contained rect / intersect">
+        <div><span>22</span>contained rect / intersect</div>
+      </a>
+      <a class="card" href="23_contained_rect_difference.svg">
+        <img src="23_contained_rect_difference.svg" alt="contained rect / difference">
+        <div><span>23</span>contained rect / difference</div>
+      </a>
+      <a class="card" href="24_contained_rect_xor.svg">
+        <img src="24_contained_rect_xor.svg" alt="contained rect / xor">
+        <div><span>24</span>contained rect / xor</div>
+      </a>
+      <a class="card" href="25_contained_rect_differencerev.svg">
+        <img src="25_contained_rect_differencerev.svg" alt="contained rect / differenceRev">
+        <div><span>25</span>contained rect / differenceRev</div>
+      </a>
+      <a class="card" href="26_multi_region_intersect.svg">
+        <img src="26_multi_region_intersect.svg" alt="multi-region / intersect">
+        <div><span>26</span>multi-region / intersect</div>
+      </a>
+      <a class="card" href="27_multi_region_difference.svg">
+        <img src="27_multi_region_difference.svg" alt="multi-region / difference">
+        <div><span>27</span>multi-region / difference</div>
+      </a>
+      <a class="card" href="28_inverted_first_polygon_union.svg">
+        <img src="28_inverted_first_polygon_union.svg" alt="inverted first polygon / union">
+        <div><span>28</span>inverted first polygon / union</div>
+      </a>
+      <a class="card" href="29_inverted_first_polygon_intersect.svg">
+        <img src="29_inverted_first_polygon_intersect.svg" alt="inverted first polygon / intersect">
+        <div><span>29</span>inverted first polygon / intersect</div>
+      </a>
+      <a class="card" href="30_inverted_first_polygon_difference.svg">
+        <img src="30_inverted_first_polygon_difference.svg" alt="inverted first polygon / difference">
+        <div><span>30</span>inverted first polygon / difference</div>
+      </a>
+      <a class="card" href="31_inverted_first_polygon_xor.svg">
+        <img src="31_inverted_first_polygon_xor.svg" alt="inverted first polygon / xor">
+        <div><span>31</span>inverted first polygon / xor</div>
+      </a>
+      <a class="card" href="32_shape_output_intersect_example.svg">
+        <img src="32_shape_output_intersect_example.svg" alt="shape output / intersect example">
+        <div><span>32</span>shape output / intersect example</div>
+      </a>
+      <a class="card" href="33_shape_output_transform.svg">
+        <img src="33_shape_output_transform.svg" alt="shape output / transform">
+        <div><span>33</span>shape output / transform</div>
+      </a>
+  </main>
+</body>
+</html>

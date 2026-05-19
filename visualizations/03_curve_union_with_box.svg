@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="560" viewBox="0 0 430 560">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 68.226 188.387 L 215 188.387 L 215 41.613 L 68.226 41.613 Z" fill="#1f38ff" fill-opacity="0.23" stroke="#1f38ff" stroke-width="1.5" fill-rule="evenodd"/>
+<path d="M 68.226 188.387 C 68.226 41.613 361.774 41.613 361.774 188.387 Z" fill="#ff2a2a" fill-opacity="0.23" stroke="#ff2a2a" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="68.226" cy="188.387" r="3" fill="#1f38ff"/>
+<circle cx="215" cy="188.387" r="3" fill="#1f38ff"/>
+<circle cx="215" cy="41.613" r="3" fill="#1f38ff"/>
+<circle cx="68.226" cy="41.613" r="3" fill="#1f38ff"/>
+<circle cx="68.226" cy="188.387" r="3" fill="#ff2a2a"/>
+<circle cx="68.226" cy="41.613" r="3" fill="#ff2a2a"/>
+<circle cx="361.774" cy="41.613" r="3" fill="#ff2a2a"/>
+<circle cx="361.774" cy="188.387" r="3" fill="#ff2a2a"/>
+<text x="215.0" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#202124">Union</text>
+<line x1="215.0" y1="257" x2="215.0" y2="292" stroke="#000" stroke-width="13"/><polygon points="197.0,286 233.0,286 215.0,312" fill="#000"/>
+<path d="M 68.226 492.387 L 361.774 492.387 C 361.774 419 288.387 382.306 215 382.306 L 215 345.613 L 68.226 345.613 Z" fill="#31ff31" fill-opacity="0.80" stroke="#12b81f" stroke-width="1.5" fill-rule="evenodd"/>
+<circle cx="68.226" cy="492.387" r="3" fill="#087d12"/>
+<circle cx="361.774" cy="492.387" r="3" fill="#087d12"/>
+<circle cx="361.774" cy="419" r="3" fill="#087d12"/>
+<circle cx="288.387" cy="382.306" r="3" fill="#087d12"/>
+<circle cx="215" cy="382.306" r="3" fill="#087d12"/>
+<circle cx="215" cy="345.613" r="3" fill="#087d12"/>
+<circle cx="68.226" cy="345.613" r="3" fill="#087d12"/>
+<text x="16" y="548" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">03. curve / union with box</text>
+</svg>

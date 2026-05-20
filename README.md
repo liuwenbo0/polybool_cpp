@@ -1,6 +1,6 @@
 # polybool_cpp
 
-C++17 port of a polygon boolean operation library.
+C++17 port of [polybool](https://github.com/velipso/polybool.git)(a polygon boolean operation library).
 
 ## Files
 
